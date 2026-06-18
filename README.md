@@ -1,3 +1,4 @@
+https://harshsrivastav-weather-app.netlify.app/
 # 🌤️ Live Weather Application
 
 A clean, responsive, and minimalist web application built to fetch and display real-time weather data. This project features a custom-engineered **sliding ON/OFF toggle switch** to instantly convert temperature readings between Celsius and Fahrenheit dynamically without reloading the page.
